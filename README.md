@@ -22,4 +22,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Production
 
-### https://fid-eat.vercel.app/home
+### https://avafive-test-task.vercel.app
