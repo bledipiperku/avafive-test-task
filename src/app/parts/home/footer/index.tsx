@@ -1,8 +1,8 @@
 import React, { FC } from "react";
 import Image from "next/image";
 
-import SocialIcon from "@/parts/home/footer/socials-icons";
-import FooterSection from "@/parts/home/footer/footer-section";
+import SocialIcon from "@/app/parts/home/footer/socials-icons";
+import FooterSection from "@/app/parts/home/footer/footer-section";
 
 const Footer: FC = () => (
   <footer className="px-[60px] pb-[70px] pt-[32px] bg-primary  w-full">

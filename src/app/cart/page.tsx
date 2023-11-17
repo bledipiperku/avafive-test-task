@@ -2,8 +2,8 @@ import React, { FC } from "react";
 
 import Breadcrumb from "@/components/Breadcrumb";
 
-import CartProducts from "@/parts/cart/cart-products";
-import Coupon from "@/parts/cart/coupon";
+import CartProducts from "@/app/parts/cart/cart-products";
+import Coupon from "@/app/parts/cart/coupon";
 
 const CartPage: FC = () => {
   return (

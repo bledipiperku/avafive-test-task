@@ -6,9 +6,9 @@ import React, { FC, useState } from "react";
 
 import AppLogo from "@/components/AppLogo";
 
-import NavbarLinks from "@/parts/home/header/navbar-links";
-import SearchInput from "@/parts/home/header/search";
-import Counter from "@/parts/home/header/counter";
+import NavbarLinks from "@/app/parts/home/header/navbar-links";
+import SearchInput from "@/app/parts/home/header/search";
+import Counter from "@/app/parts/home/header/counter";
 
 const Header: FC = () => {
   const [mobNav, setMobNav] = useState<boolean>(false);

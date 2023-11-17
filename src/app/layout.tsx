@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
-import Header from "@/parts/home/header";
-import Footer from "@/parts/home/footer";
+import Header from "@/app/parts/home/header";
+import Footer from "@/app/parts/home/footer";
 
 const inter = Inter({ subsets: ["latin"] });
 

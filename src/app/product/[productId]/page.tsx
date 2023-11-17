@@ -9,10 +9,10 @@ import { TProduct } from "@/lib/types/product";
 import Breadcrumb from "@/components/Breadcrumb";
 import CouponCode from "@/components/CouponCode";
 
-import Carousel from "@/parts/product/product-carousel";
-import ProductDetails from "@/parts/product/product-details";
-import ProductActions from "@/parts/product/product-actions";
-import Rating from "@/parts/product/product-rating";
+import Carousel from "@/app/parts/product/product-carousel";
+import ProductDetails from "@/app/parts/product/product-details";
+import ProductActions from "@/app/parts/product/product-actions";
+import Rating from "@/app/parts/product/product-rating";
 
 interface ProductPageProps {
   params: {
